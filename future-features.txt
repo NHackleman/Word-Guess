@@ -1,4 +1,0 @@
-  - Add web scraping capabilities using "www.yougowords.com" to access a large
-    amount of multiple different sizes of words
-
-  - Add ability for player to choose length of word to guess
